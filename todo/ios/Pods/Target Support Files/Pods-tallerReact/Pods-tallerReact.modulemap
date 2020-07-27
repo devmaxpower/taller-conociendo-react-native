@@ -1,6 +1,0 @@
-module Pods_tallerReact {
-  umbrella header "Pods-tallerReact-umbrella.h"
-
-  export *
-  module * { export * }
-}
