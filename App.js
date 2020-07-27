@@ -48,7 +48,7 @@ class App extends Component{
               <Image source = { {uri : 'https://via.placeholder.com/150'}} style={styles.imagen} />
               
               <Text>
-                Hola soy el body de la aplicacion, puedes poner un componente nuevo. Recuerda que en React todo puede ser un componente. La idea es reutilizar recursos
+                Hola soy el body de la aplicacion, puedes poner un componente nuevo. Recuerda que en React todo puede ser un componente. La idea es reutilizar recursos.
               </Text>
             </View>
             
